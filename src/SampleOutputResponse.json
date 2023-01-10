@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 37,
+  "articles": [
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "World stocks edge above Nov 2020 lows, sterling recovers some ground - Reuters",
+      "description": "World stocks picked up from 21-month lows on Tuesday and sterling rallied after hitting record lows versus the dollar a day earlier on UK plans for tax cuts, as market slides ran out of steam.",
+      "url": "https://www.reuters.com/markets/europe/global-markets-wrapup-1-2022-09-27/",
+      "urlToImage": "https://www.reuters.com/resizer/HrhaG8Jv61uAHoTjEd_Sof1CD1o=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MSK2LPH6VFK3XMNAU5ULTRWMUY.jpg",
+      "publishedAt": "2022-09-27T08:29:00Z",
+      "content": "LONDON/HONG KONG, Sept 27 (Reuters) - World stocks picked up from 21-month lows on Tuesday and sterling rallied after hitting record lows versus the dollar a day earlier on UK plans for tax cuts, as … [+3670 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Holly Ellyatt",
+      "title": "After sham referendums, Russia could annex more of Ukraine by the end of the week; Russian conscripts set off to war - CNBC",
+      "description": "Tuesday is the final day of voting in sham referendums on joining Russia, which is expected to announce it has annexed more of Ukraine by the end of the week.",
+      "url": "https://www.cnbc.com/2022/09/27/russia-ukraine-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107124754-1664259149767-gettyimages-1243452537-AA_23092022_875900.jpeg?v=1664260189&w=1920&h=1080",
+      "publishedAt": "2022-09-27T08:18:00Z",
+      "content": "Tuesday is the final day of voting in a series of referendums on joining Russia. The votes, widely seen as rigged and illegitimate, are likely to pave the way for Russia to announce it has annexed mo… [+1221 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Nouran Salahieh",
+      "title": "Hurricane Ian intensifies into a Category 3 storm as it nears landfall in Cuba, bringing life-threatening storm surge and 115 mph winds - CNN",
+      "description": "[Breaking news update, published at    a.m. ET]",
+      "url": "https://www.cnn.com/2022/09/27/weather/hurricane-ian-cuba-florida-tuesday/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220926215006-01-hurricane-ian-0926.jpg?q=w_800,c_fill",
+      "publishedAt": "2022-09-27T08:04:00Z",
+      "content": "[Breaking news update, published at 4:45 a.m. ET]\r\nHurricane Ian has made landfall in western Cuba early Tuesday morning as a Category 3 hurricane, bringing 125 mph winds and powerful storm surges to… [+7774 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "Sweden issues warning of two gas leaks on Nord Stream 1 pipeline - Reuters",
+      "description": "Sweden's Maritime Authority said on Tuesday it had issued a warning of two leaks on the Russian-owned Nord Stream 1 pipeline in Swedish and Danish waters, shortly after a leak on the nearby Nord Stream 2 project was discovered.",
+      "url": "https://www.reuters.com/business/energy/sweden-issues-warning-two-gas-leaks-nord-stream-1-pipeline-2022-09-27/",
+      "urlToImage": "https://www.reuters.com/resizer/YuwVkj2nrS-wJ11VM7DA6lkq7Yg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RRV7LGOUYZPARD5PSBZFOAPTPQ.jpg",
+      "publishedAt": "2022-09-27T07:00:00Z",
+      "content": "STOCKHOLM, Sept 27 (Reuters) - Sweden's Maritime Authority said on Tuesday it had issued a warning of two leaks on the Russian-owned Nord Stream 1 pipeline in Swedish and Danish waters, shortly after… [+1450 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Hugo Lowell",
+      "title": "Meadows was central to hundreds of texts about overturning 2020 election, book says - The Guardian US",
+      "description": "Messages include group chat among cabinet officials and plans by lawmakers to object to election certification",
+      "url": "https://amp.theguardian.com/us-news/2022/sep/26/mark-meadows-text-messages-january-6-breach-book",
+      "urlToImage": null,
+      "publishedAt": "2022-09-27T05:02:00Z",
+      "content": "Trump administrationMessages include group chat among cabinet officials and plans by lawmakers to object to election certification\r\nTue 27 Sep 2022 01.00 EDT\r\nMark Meadows, Donald Trumps former White… [+6126 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Jesse Pound",
+      "title": "Stock futures rise after S&P 500, Dow close at lowest levels since 2020 - CNBC",
+      "description": "Futures were higher on Tuesday morning after another rough day for Wall Street.",
+      "url": "https://www.cnbc.com/2022/09/26/stock-futures-are-little-changed-after-sp-500-closes-at-lowest-level-since-2020.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107114797-NYSE-Trading-Floor-Photo-220907-CC-PRESS-2.jpg?v=1664231895&w=1920&h=1080",
+      "publishedAt": "2022-09-27T04:25:00Z",
+      "content": "Stock futures were higher on Tuesday morning after the market started the week by continuing its dramatic September decline.\r\nS&amp;P 500 futures gained 0.68% and Nasdaq 100 futures rose 0.74%. Those… [+1507 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Pjotr Sauer",
+      "title": "Russians paying £25,000 for seats on private planes after war mobilisation - The Guardian",
+      "description": "Passengers heading to Armenia and Turkey amid fears Russia could soon close borders to men of fighting age",
+      "url": "https://amp.theguardian.com/world/2022/sep/27/russians-paying-25000-for-seats-on-private-planes-after-war-mobilisation",
+      "urlToImage": "https://i.guim.co.uk/img/media/9cec884a35c7a6e6fc1a34130126a8e70213e8e7/0_191_3979_2387/master/3979.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b4047432be1fa682c25ed976243b89ad",
+      "publishedAt": "2022-09-27T04:00:00Z",
+      "content": "Demand for seats on private jets has boomed in Moscow after Vladimir Putin ordered the first mobilisation since the second world war and wealthy Russians look for a way out of the country amid report… [+4809 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Huileng Tan",
+      "title": "Siberia will be full of investing opportunities in the next 30 years - Business Insider",
+      "description": "Russia could \"surprise on the upside\" for investors after the war in Ukaine, said Cheah Cheng Hye, co-CIO of Value Partners Group.",
+      "url": "https://www.businessinsider.com/russia-siberia-investing-opportunities-farmland-agriculture-ukraine-war-30-years-2022-9",
+      "urlToImage": "https://i.insider.com/63317f5e329bac00182f2964?width=1200&format=jpeg",
+      "publishedAt": "2022-09-27T03:38:34Z",
+      "content": "Russia may be in the thick of war now  but investing in it may \"surprise on the upside\" after the conflict with Ukraine ends, a Hong Kong-based fund manager said at the Forbes Global CEO Conference i… [+1808 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Dallas Cowboys vs. New York Giants | 2022 Week 3 Highlights - NFL",
+      "description": "Check out our other channels:NFL Mundo https://www.youtube.com/mundonflNFL Brasil https://www.youtube.com/c/NFLBrasilOficialNFL UK https://www.youtube.com/ch...",
+      "url": "https://www.youtube.com/watch?v=KIJJ6YncBrA",
+      "urlToImage": "https://i.ytimg.com/vi/KIJJ6YncBrA/hqdefault.jpg",
+      "publishedAt": "2022-09-27T03:35:02Z",
+      "content": null
+    },
+    {
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
+      "author": "Joel Achenbach",
+      "title": "NASA DART mission successfully crashes spacecraft into asteroid - The Washington Post",
+      "description": "The 14,000-mile-per-hour collision of a small spacecraft into an asteroid was NASA’s first test of a potential planetary defense technology.",
+      "url": "https://www.washingtonpost.com/science/2022/09/26/nasa-dart-mission-asteroid-crash/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NTLHEVB5PYI63DDOSODL27GYEY.jpg&w=1440",
+      "publishedAt": "2022-09-27T03:12:00Z",
+      "content": "LAUREL, Md. NASA managed Monday to crash a small spacecraft directly into an asteroid, a 14,000-mile-per-hour collision designed to test whether such a technology could someday be deployed to protect… [+5777 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Eonline.com" },
+      "author": "Kelly Gilmore",
+      "title": "Is Khloe Kardashian Dating Michele Morrone? Here’s the Truth - E! NEWS",
+      "description": "Khloe Kardashian and Michele Morrone raised eyebrows with their cozy photo at Milan Fashion Week, but are they actually dating? Find out where they stand.",
+      "url": "https://www.eonline.com/news/1348007/is-khloe-kardashian-dating-michele-morrone-heres-the-truth",
+      "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2022826/rs_1200x1200-220926141143-Michele-Morrone-After-Khloe-Kardashian-1.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+      "publishedAt": "2022-09-27T01:30:00Z",
+      "content": "Good vibes were in the air at Milan Fashion Week, but was it love?\r\nKhloe Kardashian and Michele Morrone sparked romance rumors when they took an intimate photo together backstage at Dolce &amp; Gabb… [+805 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Tierney Sneed, Holmes Lybrand",
+      "title": "DOJ declares seized Mar-a-Lago materials list full and accurate despite Trump's claims of planted evidence - CNN",
+      "description": "The Justice Department submitted, as part of the special master review of the Mar-a-Lago search, a slightly revised inventory of the materials seized in the search, along with an FBI affidavit indicating that the new inventory fully reflects what was taken.",
+      "url": "https://www.cnn.com/2022/09/26/politics/justice-department-maralago-seized-materials-list-full-accurate/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220911212435-mar-a-lago-0815-file.jpg?q=w_800,c_fill",
+      "publishedAt": "2022-09-27T01:15:00Z",
+      "content": "The Justice Department submitted, as part of the special master review of the Mar-a-Lago search, a slightly revised inventory of the materials seized in the search, along with an FBI affidavit indica… [+1793 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CBS Sports" },
+      "author": "",
+      "title": "Browns' Myles Garrett hospitalized with non-life threatening injuries after being involved in car accident - CBS Sports",
+      "description": "The accident occurred following Monday's practice",
+      "url": "https://www.cbssports.com/nfl/news/browns-myles-garrett-hospitalized-with-non-life-threatening-injuries-after-being-involved-in-car-accident/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2021/12/21/f6e81281-d109-48b7-b28d-3c24bc1fd9e9/thumbnail/1200x675/653d6341c338a044acdd9f6ec769b930/myles-garrett.jpg",
+      "publishedAt": "2022-09-27T01:14:00Z",
+      "content": "Browns' pass rusher Myles Garrett was hospitalized after being involved in a single-car accident Monday afternoon following practice, his agent, Nicole Lynn, confirmed Monday evening. \r\n\"While we are… [+1172 chars]"
+    },
+    {
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
+      "author": "Mary Ilyushina, Ellen Nakashima",
+      "title": "Putin grants citizenship to Edward Snowden, who exposed U.S. surveillance - The Washington Post",
+      "description": "The Russian president had previously granted asylum to the former American security consultant and refused to allow his extradition.",
+      "url": "https://www.washingtonpost.com/world/2022/09/26/putin-snowden-citizenship-russia/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3HLYTGB5XEI63DDOSODL27GYEY.jpg&w=1440",
+      "publishedAt": "2022-09-27T01:10:00Z",
+      "content": "Russian President Vladimir Putin granted citizenship on Monday to Edward Snowden, a former National Security Agency contractor who leaked information about top-secret U.S. surveillance programs and i… [+5707 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Weizhen Tan",
+      "title": "Analysts are bullish on Nvidia again after it unveils new products - CNBC",
+      "description": "Both Citi and JPMorgan love the stock, giving it serious upside potential.",
+      "url": "https://www.cnbc.com/2022/09/27/analysts-are-bullish-on-nvidia-again-after-it-unveils-new-products.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107067261-1653514547587-gettyimages-1234001062-RAFAPRESS_15072021-9654.jpeg?v=1664240090&w=1920&h=1080",
+      "publishedAt": "2022-09-27T00:54:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "al-jazeera-english", "name": "Al Jazeera English" },
+      "author": "Zaheena Rasheed",
+      "title": "The church linked to Abe’s killing, Japan’s political turmoil - Al Jazeera English",
+      "description": "Controversy erupts after assassin blames Shinzo Abe’s killing on his ties to a ‘predatory South Korean religious cult’.",
+      "url": "https://www.aljazeera.com/news/2022/9/27/unification-church-linked-to-shinzo-abes-killing-japan-political-crisis",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/09/2012-09-15T120000Z_895385251_GM1E89F12GT01_RTRMADP_3_RELIGION-UNIFICATION-SUN-MYUNG-MOON.jpg?resize=1920%2C1440",
+      "publishedAt": "2022-09-27T00:50:59Z",
+      "content": "Shinzo Abe was not his assassins preferred target.\r\nInvestigators say Tetsuya Yamagami, who fatally shot Japans longest-serving prime minister on July 8, had initially wanted to kill the leader of th… [+8251 chars]"
+    },
+    {
+      "source": { "id": null, "name": "9to5Mac" },
+      "author": "Filipe Espósito",
+      "title": "Using custom app icons has become more seamless with iPhone 14 Pro’s Dynamic Island - 9to5Mac",
+      "description": "Apple has never officially let users change iOS app icons. However, thanks to the Shortcuts app, anyone can create a home screen shortcut with a custom icon that opens a specific app. This process comes with the downside of showing a huge banner every time th…",
+      "url": "https://9to5mac.com/2022/09/26/custom-app-icons-seamless-iphone-14-pro-dynamic-island/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/09/Custom-app-icons-iPhone-14-Pro-Dynamic-Island-iOS.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2022-09-27T00:02:00Z",
+      "content": "Apple has never officially let users change iOS app icons. However, thanks to the Shortcuts app, anyone can create a home screen shortcut with a custom icon that opens a specific app. This process co… [+1848 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "Vincent Goodwill",
+      "title": "Nets need more than 'culture' to prove questions stemming from Kevin Durant's trade demand won't loom over season - Yahoo Sports",
+      "description": "When employing a player of Durant’s talent, championship discussion should be the bare minimum. But the Nets are surrounded by so much other stuff, you...",
+      "url": "https://sports.yahoo.com/nets-need-more-than-culture-to-prove-questions-stemming-from-kevin-durants-trade-demand-wont-loom-over-season-000228336.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/3kCwh_Knib.BfUdNyNujhg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-09/b4262760-3df3-11ed-9bdf-afb92f79ef58",
+      "publishedAt": "2022-09-27T00:02:00Z",
+      "content": "NEW YORK Kevin Durant was clear kinda.\r\nKyrie Irving was charismatic kinda.\r\nBen Simmons was encouraging kinda.\r\nOnce basketball resumes, the Brooklyn Nets will be the biggest story in the NBA ceding… [+6753 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Deadline" },
+      "author": "Armando Tinoco",
+      "title": "‘Basketball Wives’ Star Brooke Bailey’s Daughter Kayla Dies At 25 - Deadline",
+      "description": "Brooke Bailey, known for appearing on Basketball Wives, is mourning the loss of her 25-year-old daughter Kayla. The reality star took to Instagram to inform her followers of the tragedy and share photos remembering her daughter. “Forever my baby, Pretty Black…",
+      "url": "https://deadline.com/2022/09/basketball-wives-brooke-bailey-daughter-kayla-dies-1235127536/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2022/09/brooke-bailey-basketball-wives-daughter-kayla-dead.jpg?w=1000",
+      "publishedAt": "2022-09-26T23:39:00Z",
+      "content": "Brooke Bailey, known for appearing on Basketball Wives, is mourning the loss of her 25-year-old daughter Kayla. The reality star took to Instagram to inform her followers of the tragedy and share pho… [+1309 chars]"
+    },
+    {
+      "source": { "id": null, "name": "WMUR Manchester" },
+      "author": "Troy Lynch",
+      "title": "Did you see this over New Hampshire? Granite Staters describe seeing what is believed to be SpaceX rocket launch - WMUR Manchester",
+      "description": "A light that streaked across the Granite State skies on Saturday night is believed to be the SpaceX Falcon 9 Starlink.",
+      "url": "https://www.wmur.com/article/new-hampshire-apparent-space-x-rocket-launch-925/41387459",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/vlcsnap-2022-09-25-17h16m45s215-1664140630.png?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+      "publishedAt": "2022-09-26T23:33:00Z",
+      "content": "MANCHESTER, N.H. —A light that streaked across the Granite State skies on Saturday night is believed to be the SpaceX Falcon 9 Starlink.\r\nThe light grabbed the attention of Granite Staters and filled… [+929 chars]"
+    }
+  ]
+}
